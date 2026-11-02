@@ -1,0 +1,27 @@
+<html>
+        <head>
+                <title>The Arthurian Legends - Contact Us</title>
+                <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+<style>
+.box {
+        position:absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        font-variant-caps: small-caps;
+        color: white;
+        max-width: 533px;
+}
+</style>
+        </head>
+        <body>
+                <div class="box">
+                        <p>Jarrod Rose<br />
+                        <a href="https://jarrodrose.com/">jarrodrose.com</a></p>
+                        <p>Katherine Beringer<br />
+                        <a href="https://katbee.au/">katbee.au</a></p>
+                </div>
+                <!--- Github Pages --->
+        </body>
+</html>
